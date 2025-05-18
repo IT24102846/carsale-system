@@ -5,6 +5,8 @@ public class DealerUser extends User {
     private String dealershipAddress;
     private String businessLicense;
 
+
+
     // Constructors
     public DealerUser() { super(); }
 
