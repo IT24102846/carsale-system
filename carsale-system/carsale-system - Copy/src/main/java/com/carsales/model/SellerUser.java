@@ -4,6 +4,7 @@ public class SellerUser extends User {
     private String address;
     private String bankAccount;
 
+
     // Constructors
     public SellerUser() { super(); }
 
