@@ -34,7 +34,7 @@
     }
 
     h2, h5 {
-      background: linear-gradient(45deg, #6366f1, #a855f7);
+      background: linear-gradient(45deg, #000000, #000000);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       font-weight: 700;
