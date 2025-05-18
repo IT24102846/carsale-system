@@ -1,8 +1,0 @@
-5b74fb6c-ed8c-4a00-a97f-3cda92d12d0b,malith,12345,malithgeevindagunawardhana@gmail.com,0767040295,BUYER,No 4,Debit Card
-14edb7f4-11e3-4756-8889-855ec0ea36e5,vidura,12345,vidura@gmail.com,0767040295,DEALER,Malith Geevinda Gunawardhana,No 4,12345
-94ab6c14-92b1-4bdf-8485-357017b46244,admin,12345,admin@gmail.com,0767040295,ADMIN,No 4,,Credit Card
-e05c5600-9d78-4380-b1f8-23452eb8fdf1,sasi,12345,malithgeevindagunawardhana@gmail.com,0767040295,SELLER,,No 4,1234567890
-46fda89a-dbcc-4d6e-a70d-98c2f1a2bf11,Darshana,Darshana1234,daradilanka@gmail.com,0701882854,BUYER,Dream girl,,Credit Card
-c48711f7-4a90-449f-b11d-37219a7f8684,Naveen,Naveen1234,roshairangika@gmail.com,0776811648,SELLER,,Embilipitiya,123456789
-eb3e629b-55b6-44c6-a36a-105ac3310bcb,Dilanka,dilanka1234,lalithya1234@gmail.com,0776811648,DEALER,DILANKA NAVEEN DARSHANA,Dream girl,S12345
-cb025a9a-b804-4e37-b39e-9d982806ee82,lalithya,Lalithya1234,lalithya1234@gmail.com,0776811648,DEALER,DILANKA NAVEEN DARSHANA,Dream girl,S12345

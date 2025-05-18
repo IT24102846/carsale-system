@@ -1,7 +1,0 @@
-d08ef770-37ec-4b1c-848e-5422ddbfec6d,honda,22sa,2000,22.0,USED,black,123.0,94ab6c14-92b1-4bdf-8485-357017b46244,false,https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2022/05/2022-Chevrolet-Corvette-Z06.jpg,as,No history,1,false
-0c999d94-98aa-4a54-b642-28b1d06bfa36,ew,vezel,2000,222.0,USED,black,12345.0,e05c5600-9d78-4380-b1f8-23452eb8fdf1,true,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIJFO-B7iXIQz4wQPopq7hXzZIV8q_2Bm4vXsdSKd_4DfP8EuaBAiFILoMTcC8C8EI8k&usqp=CAU,2qw,ew,1,true
-#first owner
-
-3faf706e-af55-4c03-b814-de39a914497b,japan,Nissan,2014,399.0,USED,Black,10000.0,c48711f7-4a90-449f-b11d-37219a7f8684,false,https://unsplash.com/photos/YsgrzWvAniI/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8Tmlzc2FuJTIwY2FyfGVufDB8fHx8MTc0NzU1ODg4NHww&force=true,#good condition,No history,1,false
-#first owner
-
