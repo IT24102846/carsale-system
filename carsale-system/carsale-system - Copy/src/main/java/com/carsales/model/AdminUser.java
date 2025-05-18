@@ -4,6 +4,7 @@ public class AdminUser extends User {
     private String adminLevel;
     private String department;
 
+
     // Constructors
     public AdminUser() { super(); }
 

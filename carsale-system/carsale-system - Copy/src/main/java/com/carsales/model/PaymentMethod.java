@@ -4,6 +4,7 @@ package com.carsales.model;
 import java.util.Date;
 import java.text.SimpleDateFormat;
 
+
 public abstract class PaymentMethod {
     private String paymentId;
     private String bookingId;

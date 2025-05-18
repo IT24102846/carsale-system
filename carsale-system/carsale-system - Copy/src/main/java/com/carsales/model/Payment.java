@@ -6,6 +6,7 @@ public class Payment {
     private double amount;
     private String status;
 
+
     public Payment() {
         this.status = "PENDING"; // Default value
     }

@@ -6,6 +6,7 @@ public class UserFeedback extends Feedback {
     private String targetUserId;
     private String transactionId;
 
+
     // Constructors
     public UserFeedback() { super(); }
 
