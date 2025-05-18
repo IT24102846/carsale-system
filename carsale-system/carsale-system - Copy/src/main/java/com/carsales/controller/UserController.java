@@ -28,6 +28,7 @@ public class UserController {
             return "redirect:/login";
         }
 
+
         List<User> userList = userService.findAll();
         model.addAttribute("userList", userList);
         return "User/display";
